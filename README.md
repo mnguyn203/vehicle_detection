@@ -6,7 +6,7 @@ Dự án sử dụng **YOLOv8 (Ultralytics)** để **phát hiện (detection)**
 - Bounding box ổn định 
 - FPS cao
 - Dễ mở rộng cho các bài toán thực tế (đếm xe, phân tích giao thông, v.v.)
-
+- Link dataset: https://www.kaggle.com/datasets/daudshah/vehicle-detection-dataset?select=valid
 ## Features
 
 - Vehicle detection với **YOLOv8**
